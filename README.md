@@ -780,6 +780,7 @@ API | Description | Auth | HTTPS | CORS |
 **[⬆ Back to Index](#index)**
 <br >
 <br >
+| [**FXMacroData**](https://fxmacrodata.com/) | Macroeconomic and FX data API for 18 currencies with central bank announcements, policy rates, inflation, employment, GDP, release calendar, COT, commodities, and forex. | **N/A** |
 ### Food & Drink
 API | Description | Auth | HTTPS | CORS |
 |:---|:---|:---|:---|:---|
